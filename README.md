@@ -1,0 +1,2 @@
+# Shark-Bait-add-on-Bruce-firmware-M5stackc-plus-
+  *Features:*  *Real-time WiFi threat detection* *4 targeted counter-attack methods* (Karma poisoning, Evil twin disruption, etc.) -  *Threat monitoring* - packet analysis -  *Coreymillia &amp; GitHub Copilot Created* - *Based on:* Bruce firmware by @pr3y &amp; team - *Inspiration:* Evil-Cardputer by @7h30th3r0n3 - Feel free to use, modify, and distribute
